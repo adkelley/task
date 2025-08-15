@@ -1,3 +1,7 @@
+//// This file has been modified from the original source:
+////  https://github.com/gleam-lang/otp/tree/v0.16.0
+//// Original license: Apache 2.0
+//// 
 //// A task is a kind of process that computes a value and then sends the result back
 //// to its parent. Commonly multiple tasks are used to compute multiple things at
 //// once.
