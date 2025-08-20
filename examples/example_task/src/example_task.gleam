@@ -1,3 +1,7 @@
+////  This example was forked with permission from
+//// https://github.com/bcpeinhardt/learn_otp_with_gleam/blob/main/src/tasks.gleam,
+//// and modified to support https://github.com/adkelley/task.   
+//// 
 //// Tasks are one off processes meant to easily make synchronous work async.
 //// They're really straightforward to use, just fire them off and check back later.
 //// The gleam_otp.tasks (0.16.1) module was not upgraded to gleam_otp 1.0.0.
