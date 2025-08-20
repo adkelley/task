@@ -6,6 +6,7 @@ Original work Copyright © 2019 Louis Pilfold <louis@lpil.uk>
 Modifications made by Alex Kelley, 2025:
 - Updated dependencies to the latest versions
 - Slight modifications to functions necessary to support glaem_opt@1.0
+- Added example based on tutorial from [bcpeinhardt/lern_otp_with_gleam](https://github.com/bcpeinhardt/learn_otp_with_gleam) 
 
 ## Introduction
 The module `gleam_otp/task` was removed in the release of `1.0.0`. I found it useful
