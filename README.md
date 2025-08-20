@@ -11,10 +11,7 @@ Modifications made by Alex Kelley, 2025:
 ## Introduction
 The module `gleam_otp/task` was removed in the release of `1.0.0`. I found it useful
 and thus decided to port `gleam_otp/task@0.16.1` to support the dependencies (i.e., modules, functions, etc.)
-introduced in `gleam_opt/task@1.0`. Otherwise, everything remains the same.  A simple example is given below,
-but I've also included a tutorial in the `example` directory.
-Special thanks to [bcpeinhardt/lern_otp_with_gleam](https://github.com/bcpeinhardt/learn_otp_with_gleam) for his task tutorial
-which I migrated to support this port of task.
+introduced in `gleam_opt/task@1.0`. Otherwise, everything remains the same.  
 
 ## Background (gleam_otp/task@0.16.1 documentation)
 A task is a kind of process that computes a value and then sends the result back
